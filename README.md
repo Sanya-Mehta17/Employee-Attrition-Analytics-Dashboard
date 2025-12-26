@@ -1,5 +1,9 @@
 # Employee Attrition Analytics Dashboard | Power BI
 
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](PowerBIdashboard_screenshot.png)
+
 ## Business Problem
 Employee attrition leads to increased hiring costs and productivity loss.
 This dashboard helps HR teams identify key factors driving employee attrition.
@@ -34,7 +38,4 @@ years at company, education, and attrition status.
 Enables HR teams to identify high-risk employee groups and design
 targeted retention strategies.
 
-## 📸 Dashboard Preview
-
-![Dashboard Screenshot](PowerBIdashboard_screenshot.png)
 
