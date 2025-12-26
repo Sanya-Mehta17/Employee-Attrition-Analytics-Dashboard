@@ -29,5 +29,5 @@ This project demonstrates practical skills in:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](PowrBIdashboard_screenshot.png)
+![Dashboard Screenshot](PowerBIdashboard_screenshot.png)
 
