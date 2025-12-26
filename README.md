@@ -27,5 +27,7 @@ This project demonstrates practical skills in:
 - Analytical thinking
 - Business Intelligence using Power BI
 
+## 📸 Dashboard Preview
 
+![Dashboard Screenshot](dashboard_screenshot.png)
 
